@@ -5,5 +5,5 @@ const express = require("express");
 
 
  app.get("/",(req,res)=>{
-res.send("hii")
+res.send("hi i am root ")
  });
