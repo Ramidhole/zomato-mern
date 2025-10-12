@@ -6,3 +6,4 @@ connectDB();
 app.listen(3000,()=>{
     console.log("server is running port is 3000")
 });
+
